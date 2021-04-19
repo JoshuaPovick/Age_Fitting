@@ -1,0 +1,15 @@
+###############
+### Ignore  ###
+###############
+
+### Extensions
+*.fits
+*.fits.gz
+
+*.jpg
+
+*.pdf
+*.png
+
+### Directories
+
