@@ -8,8 +8,16 @@
 
 *.jpg
 
+*.nml1
+*.nml2
+
 *.pdf
 *.png
+*.pyc
+
+*.track
+
+*.zip
 
 ### Directories
 
