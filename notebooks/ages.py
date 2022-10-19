@@ -5,6 +5,8 @@ import numpy as np
 from astropy.table import Table,vstack
 from tqdm.notebook import tqdm
 
+import pdb
+
 
 def age(tab,iso=None):
     """
@@ -32,6 +34,8 @@ def age(tab,iso=None):
     out = np.zeros(len(data),dtype=np.dtype(dt))
     out = Table(out)
     for j in range(8): out[j][:] = np.nan
+        
+    pdb.set_trace()
     
     # Loop over stars
     for i in tqdm(range(len(data))):
@@ -43,7 +47,7 @@ def age(tab,iso=None):
         #  Gaia EDR3 and 2MASS photometry, Teff, logg and [Fe/H]
         colnames = ['g_bp','g','g_rp','j','h','k','teff','logg','salaris_fe_h']
         obs = np.zeros(len(colnames),float)
-        for j in range(len(colnames)): obs[j]=data[colnames[j]][i]
+        for j in range(len(colnames)): obs[j]=data[colnames[j]]
         errcolnames = ['g_bp_err','g_err','g_rp_err','j_err','h_err','k_err','teff_err','logg_err','salaris_fe_h_err']
         obserr = np.zeros(len(errcolnames),float)
         for j in range(len(errcolnames)): obserr[j]=data[errcolnames[j]][i]
@@ -98,6 +102,6 @@ def age(tab,iso=None):
         out['resid'][i] = resid
         out['chisq'][i] = np.min(chisq)
 
-        print('%6d %8.2f %8.2f %4s %8.2f' % (i+1,out['agemyr'][i],out['feh'][i],out['label'][i],out['chisq'][i]))
+        #print('%6d %8.2f %8.2f %4s %8.2f' % (i+1,out['agemyr'][i],out['feh'][i],out['label'][i],out['chisq'][i]))
 
     return out
