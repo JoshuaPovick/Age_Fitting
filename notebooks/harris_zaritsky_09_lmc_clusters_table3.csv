@@ -1,0 +1,96 @@
+﻿Cluster,[Fe/H],sigma_[Fe/H],log(Age),sigma_log(Age),Reference,Notes
+Reticulum,-1.66,0.12,10.13,0.05,Mackey & Gilmore (2004),a
+BRHTb,-0.4,0,8,0,Piatti et al. (2003),bc
+ESO121,-0.97,0.1,9.96,0.04,Mackey et al. (2006), sdotsdotsdot 
+R136,-0.4,0,7,0,Hunter et al. (1995),bc
+OHSC33,-1.05,0.2,9.18,0.03,Bica et al. (1998), sdotsdotsdot 
+OHSC37,-0.7,0.2,9.32,0.03,Bica et al. (1998), sdotsdotsdot 
+Hodge11,-1.84,0,10.13,0.05,Grocholski et al. (2006),ad
+LH47/48,-0.4,0,6.3,0,Oey & Massey (1995),bc
+LH52/53,-0.4,0,7,0,Hill et al. (1995),bc
+LH72,-0.6,0,6.95,0.25,Olsen et al. (1997),b
+LH77,-0.4,0,7.2,0.14,Da Costa & Hatzidimitriou (1998),b
+LW224,0,0.2,8.85,0,Piatti et al. (2003),c
+SL8,-0.55,0.2,9.26,0.03,Bica et al. (1998), sdotsdotsdot 
+SL126,-0.5,0.2,9.34,0.03,Bica et al. (1998), sdotsdotsdot 
+SL218,-0.4,0,7.7,0,Piatti et al. (2003), sdotsdotsdot 
+SL244,-0.7,0.2,9.11,0.09,Geisler et al. (2003),e
+SL262,-0.6,0.2,9.32,0.03,Bica et al. (1998), sdotsdotsdot 
+SL359,-0.4,0.2,9.2,0.1,Geisler et al. (2003), sdotsdotsdot 
+SL388,-0.39,0.05,9.34,0.03,Grocholski et al. (2006),f
+SL444,-0.4,0.2,8.7,0,Piatti et al. (2003),c
+SL446A,-0.9,0.2,9.34,0.1,Geisler et al. (2003), sdotsdotsdot 
+SL451,-0.75,0.2,9.34,0.03,Bica et al. (1998), sdotsdotsdot 
+SL503,-0.4,0,7.2,0.22,Da Costa & Hatzidimitriou (1998),b
+SL505,-0.5,0.2,8.95,0.09,Geisler et al. (2003), sdotsdotsdot 
+SL506,-0.45,0.1,9.35,0.03,Kerber et al. (2007), sdotsdotsdot 
+SL509,-0.65,0,9.08,0,Piatti et al. (2003),bc
+SL548,0,0.2,8.6,0,Piatti et al. (2003),c
+SL549,-0.9,0.2,9.3,0.1,Geisler et al. (2003), sdotsdotsdot 
+SL555,-0.7,0.2,9.2,0.12,Geisler et al. (2003), sdotsdotsdot 
+SL556,-0.7,0.2,9.32,0,Woo et al. (2003),c
+SL663,-0.7,0.1,9.5,0.05,Kerber et al. (2007),e
+SL674,-0.9,0.2,9.3,0.08,Geisler et al. (2003), sdotsdotsdot 
+SL678,-0.8,0.2,9.18,0.08,Geisler et al. (2003), sdotsdotsdot 
+SL769,-0.35,0,9.26,0,Piatti et al. (2003),bc
+SL817,-0.55,0.2,9.18,0.03,Bica et al. (1998), sdotsdotsdot 
+SL842,-0.65,0.2,9.34,0.03,Bica et al. (1998), sdotsdotsdot 
+SL862,-0.9,0.2,9.26,0.03,Bica et al. (1998), sdotsdotsdot 
+SL896,-0.6,0.2,9.36,0.09,Piatti et al. (2002), sdotsdotsdot 
+NGC 1651,-0.53,0.03,9.3,0.03,Grocholski et al. (2006),eg
+NGC 1711,-0.57,0.17,7.7,0.05,Dirsch et al. (2000), sdotsdotsdot 
+NGC 1718,-0.4,0.1,9.31,0.03,Kerber et al. (2007),e
+NGC 1754,-1.42,0.15,10.19,0.06,Olsen et al. (1998), sdotsdotsdot 
+NGC 1777,-0.6,0.1,9.06,0.04,Kerber et al. (2007), sdotsdotsdot 
+NGC 1786,-2.1,0.3,10.13,0.1,Brocato et al. (1996),h
+NGC 1806,-0.71,0.23,8.7,0.1,Dirsch et al. (2000), sdotsdotsdot 
+NGC 1831,-0.1,0.1,8.85,0.05,Kerber et al. (2007), sdotsdotsdot 
+NGC 1835,-1.62,0.15,10.21,0.07,Olsen et al. (1998), sdotsdotsdot 
+NGC 1836,0,0.2,8.6,0,Piatti et al. (2003),c
+NGC 1838,-0.4,0,8,0,Piatti et al. (2003),bc
+NGC 1839,-0.4,0,8.1,0,Piatti et al. (2003),bc
+NGC 1841,-2.02,0.02,10.13,0.1,Grocholski et al. (2006),ai
+NGC 1846,-0.4,0,9.3,0.03,Mackey & Broby Nielsen (2007),b
+NGC 1850A,-0.12,0.03,7.7,0.1,Gilmozzi et al. (1994), sdotsdotsdot 
+NGC 1850B,-0.12,0.03,6.6,0.1,Gilmozzi et al. (1994), sdotsdotsdot 
+NGC 1856,-0.4,0.1,8.47,0.04,Kerber et al. (2007), sdotsdotsdot 
+NGC 1858,-0.4,0,6.9,0,Vallenari et al. (1994b),bc
+NGC 1860,0,0.2,8.4,0,Piatti et al. (2003),c
+NGC 1863,-0.4,0,7.7,0,Piatti et al. (2003),bc
+NGC 1865,-0.2,0.2,8.7,0,Piatti et al. (2003),c
+NGC 1866,-0.43,0.18,8,0,Hilker et al. (1995),c
+NGC 1868,-0.7,0.1,9.05,0.03,Kerber et al. (2007), sdotsdotsdot 
+NGC 1898,-1.37,0.15,10.13,0.07,Olsen et al. (1998), sdotsdotsdot 
+NGC 1928,-1.27,0.14,10.13,0.1,Mackey & Gilmore (2004),a
+NGC 1939,-2.1,0.19,10.13,0.1,Mackey & Gilmore (2004),a
+NGC 1948,-0.4,0,6.85,0.15,Will et al. (1996),b
+NGC 1955,-0.4,0,7.19,0.15,Da Costa & Hatzidimitriou (1998),b
+NGC 1978,-0.38,0.07,9.54,0,Ferraro et al. (2006),ce
+NGC 2004,-0.4,0,7.19,0.15,Da Costa & Hatzidimitriou (1998),be
+NGC 2005,-1.35,0.15,10.22,0.11,Olsen et al. (1998), sdotsdotsdot 
+NGC 2019,-1.23,0.15,10.21,0.08,Olsen et al. (1998), sdotsdotsdot 
+NGC 2027,-0.4,0,7.06,0.14,Da Costa & Hatzidimitriou (1998),b
+NGC 2031,-0.52,0.21,8.2,0.1,Dirsch et al. (2000), sdotsdotsdot 
+NGC 2121,-0.4,0.1,9.46,0.07,Kerber et al. (2007),e
+NGC 2134,-0.4,0,8.28,0,Vallenari et al. (1994a),bc
+NGC 2136,-0.55,0.23,8,0.1,Dirsch et al. (2000), sdotsdotsdot 
+NGC 2155,-0.7,0.1,9.48,0.03,Kerber et al. (2007),e
+NGC 2162,-0.4,0.1,9.1,0.03,Kerber et al. (2007), sdotsdotsdot 
+NGC 2164,-0.2,0.2,8,0,Sagar & Richtler (1991),c
+NGC 2173,-0.6,0.1,9.21,0.04,Kerber et al. (2007),e
+NGC 2209,-0.5,0.1,9.08,0.03,Kerber et al. (2007), sdotsdotsdot 
+NGC 2210,-1.75,0.1,10.13,0.1,Hill et al. (2000),ehi
+NGC 2213,-0.7,0.1,9.23,0.04,Kerber et al. (2007),e
+NGC 2214,-0.2,0.2,8,0,Sagar & Richtler (1991),c
+NGC 2249,-0.45,0.1,9.35,0.03,Kerber et al. (2007), sdotsdotsdot 
+NGC 2257,-1.63,0.21,10.2,0.1,Dirsch et al. (2000), sdotsdotsdot 
+NGC 2213 ,-0.7,0.1,9.23,0.04,Kerber et al. (2007),e
+NGC 2214,-0.2,0.2,8,0,Sagar & Richtler (1991),c
+NGC 2249,-0.45,0.1,9.35,0.03,Kerber et al. (2007),sdotsdotsdot
+NGC 2257,-1.63,0.21,10.2,0.1,Dirsch et al. (2000),sdotsdotsdot 
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

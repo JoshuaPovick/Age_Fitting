@@ -1,0 +1,19 @@
+================================================================================
+Title: SMASHing the LMC: A Tidally-induced Warp in the Outer LMC 
+       and a Large Scale Reddening Map 
+Authors: Choi Y., Nidever D.L., Olsen K., Blum R.D., Besla G., Zaritsky D., 
+         van der Marel R.P., Bell E.F., Gallart C., Cioni M.-R.,L., 
+         Johnson L.C., Vivas A.K., Saha A., de Boer T.J.L., Noel N.E.D., 
+         Monachesi A., Massana P., Conn B.C., Martinez-Delgado D., 
+         Munoz R.R., Stringfellow G.S. 
+================================================================================
+Description of contents: The FITS file contains the E(g-i) reddening map
+ along the line-of-sight toward each cell. The map was derived from the
+ red clump color.
+
+System requirements: Any FITS capable reader.
+
+Additional comments: North is up and East is right. The spatial resolution
+ is 10' (150 pc).
+
+================================================================================
